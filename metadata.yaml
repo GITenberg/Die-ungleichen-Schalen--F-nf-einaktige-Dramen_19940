@@ -1,0 +1,33 @@
+_repo: Die-ungleichen-Schalen--F-nf-einaktige-Dramen_19940
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wassermann, Jakob
+    alias: Wassermann, Jacob
+    birthdate: 1873
+    deathdate: 1934
+    gutenberg_agent_id: '6236'
+    url: http://www.gutenberg.org/2009/agents/6236
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jakob_Wassermann
+    - http://de.wikipedia.org/wiki/Jakob_Wassermann
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2006-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19940'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+tableOfContents: "Rasumowsky\r\nGentz und Fanny Elßler\r\nDer Turm von Frommetsfelden\r\
+  \nLord Hamiltons Bekehrung\r\nHockenjos"
+title: 'Die ungleichen Schalen: Fünf einaktige Dramen'
+url: http://www.gutenberg.org/ebooks/19940
